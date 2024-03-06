@@ -1,5 +1,7 @@
 ## Olá eu sou a Carolina Silva
 
+😁 Desenvolvedora em construção
+👩🏾‍🎓 Estudante de Engenharia de Software
 
 
 <div style="display: inline_block"><br>
